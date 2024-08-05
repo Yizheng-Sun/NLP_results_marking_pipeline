@@ -1,0 +1,109 @@
+Maxmimum possible Score: 102
+Your Score: 27
+
+Feedback:
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.0} > {4010, 0.0}
+--------------------------------------------------
+Words or phrases involving: bird
+* Correct relative order of similarity scores should be: 
+    {45, bird, hen, 7.03} > {4011, bird, man, 0.2}
+* Your relative order of similarity scores is: 
+    {4011, 0.0551883226271708} > {45, 0.0037821002004102}
+--------------------------------------------------
+Words or phrases involving: dollar
+* Correct relative order of similarity scores should be: 
+    {2081, dollar, buck, 9.22} > {772, dollar, people, 0.4}
+* Your relative order of similarity scores is: 
+    {772, 0.06393295046811} > {2081, 0.0280272046918109}
+--------------------------------------------------
+Words or phrases involving: happy
+* Correct relative order of similarity scores should be: 
+    {7, happy, glad, 9.17} > {27, happy, angry, 1.28}
+* Your relative order of similarity scores is: 
+    {27, 0.1144223918123249} > {7, 0.0127552583424399}
+--------------------------------------------------
+Words or phrases involving: house
+* Correct relative order of similarity scores should be: 
+    {203, house, apartment, 5.8} > {261, house, key, 1.9}
+* Your relative order of similarity scores is: 
+    {261, 0.1314784786622676} > {203, 0.0997160970738013}
+--------------------------------------------------
+Words or phrases involving: smart
+* Correct relative order of similarity scores should be: 
+    {2, smart, intelligent, 9.2} > {16, smart, dumb, 0.55}
+* Your relative order of similarity scores is: 
+    {16, 0.0869966522210333} > {2, 0.0188197162065019}
+--------------------------------------------------
+Words or phrases involving: stomach
+* Correct relative order of similarity scores should be: 
+    {274, stomach, waist, 5.9} > {774, stomach, bedroom, 0.4}
+* Your relative order of similarity scores is: 
+    {774, 0.0801805291992206} > {274, 0.024219076147213}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.538137474248476} > {159, 0.1011731570733917}
+--------------------------------------------------
+Words or phrases involving: task
+* Correct relative order of similarity scores should be: 
+    {542, task, job, 8.87} > {728, task, woman, 0.68}
+* Your relative order of similarity scores is: 
+    {728, 0.0769188416458339} > {542, 0.0549856627842132}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.0790488965000285} > {501, 0.0164153371632864}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 3001 is not found in your submission
+    Row ID: 957 is not found in your submission
+    Row ID: 809 is not found in your submission
+    Row ID: 911 is not found in your submission
+    Row ID: 697 is not found in your submission
+    Row ID: 2066 is not found in your submission
+    Row ID: 2164 is not found in your submission
+    Row ID: 51 is not found in your submission
+    Row ID: 176 is not found in your submission
+    Row ID: 402 is not found in your submission
+    Row ID: 279 is not found in your submission
+    Row ID: 883 is not found in your submission
+    Row ID: 966 is not found in your submission
+    Row ID: 633 is not found in your submission
+    Row ID: 2026 is not found in your submission
+    Row ID: 2030 is not found in your submission
+    Row ID: 2154 is not found in your submission
+    Row ID: 726 is not found in your submission
+    Row ID: 2008 is not found in your submission
+    Row ID: 189 is not found in your submission
+    Row ID: 496 is not found in your submission
+    Row ID: 24 is not found in your submission
+    Row ID: 50 is not found in your submission
+    Row ID: 2018 is not found in your submission
+    Row ID: 2019 is not found in your submission
+    Row ID: 121 is not found in your submission
+    Row ID: 709 is not found in your submission
+    Row ID: 813 is not found in your submission
+    Row ID: 977 is not found in your submission
+    Row ID: 248 is not found in your submission
+    Row ID: 264 is not found in your submission
+    Row ID: 791 is not found in your submission
+    Row ID: 989 is not found in your submission
+    Row ID: 593 is not found in your submission
+    Row ID: 819 is not found in your submission
+    Row ID: 932 is not found in your submission
+    Row ID: 19 is not found in your submission
+    Row ID: 842 is not found in your submission
+    Row ID: 2039 is not found in your submission
+    Row ID: 2149 is not found in your submission
+    Row ID: 117 is not found in your submission
+    Row ID: 125 is not found in your submission
+    Row ID: 2010 is not found in your submission

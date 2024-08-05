@@ -1,0 +1,42 @@
+Name: Maryam Alkhowildi (p01679ma)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 18:04:10 o'clock GMT
+Current Mark: 71.28
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10879201-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task1-method-b-validation.csv
+
+	Original filename: 10879201-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task2-method-a.csv
+
+	Original filename: 10879201-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task2-method-b-validation.csv
+
+	Original filename: 10879201-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task2-method-b.csv
+
+	Original filename: 10879201-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task2.ipynb
+
+	Original filename: 10879201-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task1-method-a-validation.csv
+
+	Original filename: 10879201-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task1.ipynb
+
+	Original filename: 10879201-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task2-method-a-validation.csv
+
+	Original filename: 10879201-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task1-method-a.csv
+
+	Original filename: 10879201-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_p01679ma_attempt_2023-11-24-18-04-10_10879201-Task1-method-b.csv
+

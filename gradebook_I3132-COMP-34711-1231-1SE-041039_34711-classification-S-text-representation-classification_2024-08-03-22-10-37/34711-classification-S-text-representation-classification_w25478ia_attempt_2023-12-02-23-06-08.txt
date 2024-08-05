@@ -1,0 +1,42 @@
+Name: Isabel Ade-Hall (w25478ia)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Saturday, 2 December 2023 23:06:08 o'clock GMT
+Current Mark: 72.42
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10491450-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task1-method-a.csv
+
+	Original filename: 10491450-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task1.ipynb
+
+	Original filename: 10491450-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task2-method-b-validation.csv
+
+	Original filename: 10491450-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task1-method-b-validation.csv
+
+	Original filename: 10491450-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task2-method-a-validation.csv
+
+	Original filename: 10491450-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task2.ipynb
+
+	Original filename: 10491450-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task1-method-a-validation.csv
+
+	Original filename: 10491450-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task2-method-b.csv
+
+	Original filename: 10491450-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task1-method-b.csv
+
+	Original filename: 10491450-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_w25478ia_attempt_2023-12-02-23-06-08_10491450-Task2-method-a.csv
+

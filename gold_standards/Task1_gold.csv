@@ -1,0 +1,102 @@
+816,accept,acknowledge,6.88
+957,accept,recommend,2.75
+809,agree,argue,0.77
+911,agree,please,4.13
+242,alcohol,cocktail,6.73
+697,alcohol,wine,7.42
+2066,announcement,news,7.56
+2164,announcement,effort,2.75
+14,bad,terrible,7.78
+51,bad,great,0.35
+176,beach,seashore,8.33
+402,beach,sea,4.68
+169,beer,alcohol,7.5
+279,beer,beverage,5.42
+883,begin,quit,1.28
+966,begin,go,7.42
+633,car,elevator,1.03
+2026,car,automobile,8.94
+2030,coast,shore,9.1
+2154,coast,forest,3.15
+726,doctor,temper,0.48
+2008,doctor,nurse,7
+772,dollar,people,0.4
+2081,dollar,buck,9.22
+189,door,doorway,5.4
+496,door,floor,1.67
+24,dumb,foolish,6.67
+50,dumb,intelligent,0.75
+2018,football,soccer,9.03
+2019,football,basketball,6.81
+121,friend,buddy,8.78
+709,friend,mother,2.53
+813,give,lend,7.22
+977,give,steal,0.5
+248,god,devil,1.8
+264,god,spirit,7.3
+7,happy,glad,9.17
+27,happy,angry,1.28
+3,hard,difficult,8.77
+5,hard,easy,0.95
+203,house,apartment,5.8
+261,house,key,1.9
+791,ignore,avoid,6.87
+989,ignore,explore,0.4
+440,journey,conquest,4.72
+593,journey,trip,8.88
+819,keep,possess,8.27
+932,keep,borrow,2.25
+19,large,huge,9.47
+110,large,flexible,0.48
+823,leave,go,7.63
+842,leave,remain,2.53
+2039,money,dollar,8.42
+2149,money,operation,3.31
+117,plane,airport,3.65
+125,plane,jet,8.1
+155,river,stream,7.3
+373,river,valley,1.67
+62,sly,clever,7.25
+105,sly,tough,0.58
+2,smart,intelligent,9.2
+16,smart,dumb,0.55
+274,stomach,waist,5.9
+774,stomach,bedroom,0.4
+642,student,professor,1.95
+2010,student,professor,6.81
+542,task,job,8.87
+728,task,woman,0.68
+129,teacher,instructor,9.25
+623,teacher,rabbi,4.37
+2000,tiger,cat,7.35
+2001,tiger,tiger,10
+354,wealth,poverty,1.27
+501,wealth,fame,4.02
+10,weird,strange,8.93
+34,weird,normal,0.72
+342,wood,paper,2.88
+2012,wood,forest,7.73
+3001, war criminal,student,0.2
+3002, war criminal,jet,5
+3003,brutal murder,instructor,0.2
+3004,brutal murder,terrible,5
+3005,college graduate,teacher,5
+3006,college graduate,job,2.1
+3007,boy,teenage couple,6
+3008,cat,teenage couple,0.2
+4009,benchmark,desk,1
+4010,benchmark,result,8
+178,bad,immoral,7.62
+179,bad,great,0.35
+132,media,radio,7.42
+133,media,trading,3.88
+45,bird,hen,7.03
+4011,bird,man,0.2
+168,woman,wife,5.72
+169,woman,fur,0.58
+159,take,possess,7.2
+160,take,leave,2.47
+14,area,region,9.47
+16,area,corner,2.07
+4012,journey,long distance,4
+4013,area,long distance,0.1

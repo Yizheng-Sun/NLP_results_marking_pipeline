@@ -1,0 +1,121 @@
+Maxmimum possible Score: 102
+Your Score: 61
+
+Feedback:
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.370108038187027} > {911, 0.1984713524580001}
+--------------------------------------------------
+Words or phrases involving: area
+* Correct relative order of similarity scores should be: 
+    {14, area, region, 9.47} > {16, area, corner, 2.07} > {4013, area, long distance, 0.1}
+* Your relative order of similarity scores is: 
+    {16, 0.4059481024742126} > {14, 0.3790497779846191} > {4013, 0.1992567628622055}
+--------------------------------------------------
+Words or phrases involving: bad
+* Correct relative order of similarity scores should be: 
+    {14, bad, terrible, 7.78} > {178, bad, immoral, 7.62} > {51, bad, great, 0.35} > {179, bad, great, 0.35}
+* Your relative order of similarity scores is: 
+    {14, 0.3790497779846191} > {51, 0.2068000435829162} > {179, 0.2068000435829162} > {178, 0.1531559228897094}
+--------------------------------------------------
+Words or phrases involving: beach
+* Correct relative order of similarity scores should be: 
+    {176, beach, seashore, 8.33} > {402, beach, sea, 4.68}
+* Your relative order of similarity scores is: 
+    {402, 0.4824742674827575} > {176, 0.3651703894138336}
+--------------------------------------------------
+Words or phrases involving: begin
+* Correct relative order of similarity scores should be: 
+    {966, begin, go, 7.42} > {883, begin, quit, 1.28}
+* Your relative order of similarity scores is: 
+    {883, 0.1081589013338089} > {966, 0.0768903121352195}
+--------------------------------------------------
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.5} > {4010, 0.5}
+--------------------------------------------------
+Words or phrases involving: brutal murder
+* Correct relative order of similarity scores should be: 
+    {3004, brutal murder, terrible, 5.0} > {3003, brutal murder, instructor, 0.2}
+* Your relative order of similarity scores is: 
+    {3003, 0.0557112395763397} > {3004, -0.0017048083245754}
+--------------------------------------------------
+Words or phrases involving: dumb
+* Correct relative order of similarity scores should be: 
+    {24, dumb, foolish, 6.67} > {50, dumb, intelligent, 0.75}
+* Your relative order of similarity scores is: 
+    {50, 0.2229935973882675} > {24, 0.1469140797853469}
+--------------------------------------------------
+Words or phrases involving: football
+* Correct relative order of similarity scores should be: 
+    {2018, football, soccer, 9.03} > {2019, football, basketball, 6.81}
+* Your relative order of similarity scores is: 
+    {2019, 0.7132030129432678} > {2018, 0.6799013018608093}
+--------------------------------------------------
+Words or phrases involving: god
+* Correct relative order of similarity scores should be: 
+    {264, god, spirit, 7.3} > {248, god, devil, 1.8}
+* Your relative order of similarity scores is: 
+    {248, 0.5190114974975586} > {264, 0.4008363485336303}
+--------------------------------------------------
+Words or phrases involving: ignore
+* Correct relative order of similarity scores should be: 
+    {791, ignore, avoid, 6.87} > {989, ignore, explore, 0.4}
+* Your relative order of similarity scores is: 
+    {989, 0.3504799604415893} > {791, 0.3329813480377197}
+--------------------------------------------------
+Words or phrases involving: river
+* Correct relative order of similarity scores should be: 
+    {155, river, stream, 7.3} > {373, river, valley, 1.67}
+* Your relative order of similarity scores is: 
+    {373, 0.4788236320018768} > {155, 0.4462388157844543}
+--------------------------------------------------
+Words or phrases involving: sly
+* Correct relative order of similarity scores should be: 
+    {62, sly, clever, 7.25} > {105, sly, tough, 0.58}
+* Your relative order of similarity scores is: 
+    {105, 0.2918061017990112} > {62, 0.2002081573009491}
+--------------------------------------------------
+Words or phrases involving: smart
+* Correct relative order of similarity scores should be: 
+    {2, smart, intelligent, 9.2} > {16, smart, dumb, 0.55}
+* Your relative order of similarity scores is: 
+    {16, 0.4059481024742126} > {2, 0.3572742938995361}
+--------------------------------------------------
+Words or phrases involving: stomach
+* Correct relative order of similarity scores should be: 
+    {274, stomach, waist, 5.9} > {774, stomach, bedroom, 0.4}
+* Your relative order of similarity scores is: 
+    {774, 0.4542999565601349} > {274, 0.3799463808536529}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.2233664840459823} > {159, 0.1026827469468116}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.5436920523643494} > {501, 0.4461100995540619}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.4730130136013031} > {168, 0.2165498733520507}
+--------------------------------------------------
+Words or phrases involving: wood
+* Correct relative order of similarity scores should be: 
+    {2012, wood, forest, 7.73} > {342, wood, paper, 2.88}
+* Your relative order of similarity scores is: 
+    {342, 0.298307865858078} > {2012, 0.1966809630393982}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

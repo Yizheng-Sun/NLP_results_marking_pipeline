@@ -1,0 +1,115 @@
+Maxmimum possible Score: 102
+Your Score: 64
+
+Feedback:
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.3436475098133087} > {911, 0.0875196382403373}
+--------------------------------------------------
+Words or phrases involving: beach
+* Correct relative order of similarity scores should be: 
+    {176, beach, seashore, 8.33} > {402, beach, sea, 4.68}
+* Your relative order of similarity scores is: 
+    {402, 0.3864298462867737} > {176, 0.2035789936780929}
+--------------------------------------------------
+Words or phrases involving: beer
+* Correct relative order of similarity scores should be: 
+    {169, beer, alcohol, 7.5} > {279, beer, beverage, 5.42}
+* Your relative order of similarity scores is: 
+    {279, 0.4332603514194488} > {169, 0.257302850484848}
+--------------------------------------------------
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.0} > {4010, 0.0}
+--------------------------------------------------
+Words or phrases involving: brutal murder
+* Correct relative order of similarity scores should be: 
+    {3004, brutal murder, terrible, 5.0} > {3003, brutal murder, instructor, 0.2}
+* Your relative order of similarity scores is: 
+    {3003, 0.0542708747088909} > {3004, 0.0204569417983293}
+--------------------------------------------------
+Words or phrases involving: dollar
+* Correct relative order of similarity scores should be: 
+    {2081, dollar, buck, 9.22} > {772, dollar, people, 0.4}
+* Your relative order of similarity scores is: 
+    {772, 0.0675562396645546} > {2081, 0.024013265967369}
+--------------------------------------------------
+Words or phrases involving: door
+* Correct relative order of similarity scores should be: 
+    {189, door, doorway, 5.4} > {496, door, floor, 1.67}
+* Your relative order of similarity scores is: 
+    {496, 0.5850096940994263} > {189, 0.5176380276679993}
+--------------------------------------------------
+Words or phrases involving: dumb
+* Correct relative order of similarity scores should be: 
+    {24, dumb, foolish, 6.67} > {50, dumb, intelligent, 0.75}
+* Your relative order of similarity scores is: 
+    {50, 0.1799599230289459} > {24, 0.1142613515257835}
+--------------------------------------------------
+Words or phrases involving: friend
+* Correct relative order of similarity scores should be: 
+    {121, friend, buddy, 8.78} > {709, friend, mother, 2.53}
+* Your relative order of similarity scores is: 
+    {709, 0.2858568429946899} > {121, 0.2141333669424057}
+--------------------------------------------------
+Words or phrases involving: give
+* Correct relative order of similarity scores should be: 
+    {813, give, lend, 7.22} > {977, give, steal, 0.5}
+* Your relative order of similarity scores is: 
+    {977, 0.281521588563919} > {813, 0.1730991005897522}
+--------------------------------------------------
+Words or phrases involving: god
+* Correct relative order of similarity scores should be: 
+    {264, god, spirit, 7.3} > {248, god, devil, 1.8}
+* Your relative order of similarity scores is: 
+    {248, 0.328690230846405} > {264, 0.2658053040504455}
+--------------------------------------------------
+Words or phrases involving: happy
+* Correct relative order of similarity scores should be: 
+    {7, happy, glad, 9.17} > {27, happy, angry, 1.28}
+* Your relative order of similarity scores is: 
+    {27, 0.1943502724170684} > {7, 0.1894741803407669}
+--------------------------------------------------
+Words or phrases involving: hard
+* Correct relative order of similarity scores should be: 
+    {3, hard, difficult, 8.77} > {5, hard, easy, 0.95}
+* Your relative order of similarity scores is: 
+    {5, 0.348856657743454} > {3, 0.3109188973903656}
+--------------------------------------------------
+Words or phrases involving: journey
+* Correct relative order of similarity scores should be: 
+    {593, journey, trip, 8.88} > {440, journey, conquest, 4.72} > {4012, journey, long distance, 4.0}
+* Your relative order of similarity scores is: 
+    {4012, 0.2775002121925354} > {440, 0.2586577236652374} > {593, 0.1760123372077942}
+--------------------------------------------------
+Words or phrases involving: keep
+* Correct relative order of similarity scores should be: 
+    {819, keep, possess, 8.27} > {932, keep, borrow, 2.25}
+* Your relative order of similarity scores is: 
+    {932, 0.0919088572263717} > {819, 0.079073466360569}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.4487406313419342} > {159, 0.0592099167406559}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.3311324417591095} > {501, 0.3295516669750213}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.257302850484848} > {168, 0.2450570613145828}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

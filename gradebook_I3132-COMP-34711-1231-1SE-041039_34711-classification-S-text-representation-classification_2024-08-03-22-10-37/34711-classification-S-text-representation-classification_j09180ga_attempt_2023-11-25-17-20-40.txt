@@ -1,0 +1,53 @@
+Name: Ghassan Al Kulaibi (j09180ga)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Saturday, 25 November 2023 17:20:40 o'clock GMT
+Current Mark: 71.52
+Override Mark: 71.52
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Please note that I made two submissions, the first one was at 18:00 24th of Nov which was flagged to be late, although the delay was because of the poor internet connection to upload the files.
+
+Therefore, since the submission was considered late by Blackboard, I made some changes and I made this second submission which is also late by one day. 
+
+The same applies to the questionnaire quiz, please mark the second submission only. 
+
+As regards the timing reported, please note that as part of my final year project, I had access to google colab pro, therefore the time reported here might differ greatly.
+
+I assumed that we could not use the training data to fine-tune or provide context for task 1 option C (pre-trained model). 
+
+Finally and again, please mark the second submission.
+
+Files:
+	Original filename: 10931277-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task1-method-b.csv
+
+	Original filename: 10931277-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task2-method-b.csv
+
+	Original filename: 10931277-Task1-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task1-method-c-validation.csv
+
+	Original filename: 10931277-Task1-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task1-method-c.csv
+
+	Original filename: 10931277-Task2-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task2-method-c-validation.csv
+
+	Original filename: 10931277-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task2-method-b-validation.csv
+
+	Original filename: 10931277-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task1-method-b-validation.csv
+
+	Original filename: 10931277_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277_Task1.ipynb
+
+	Original filename: 10931277_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277_Task2.ipynb
+
+	Original filename: 10931277-Task2-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_j09180ga_attempt_2023-11-25-17-20-40_10931277-Task2-method-c.csv
+

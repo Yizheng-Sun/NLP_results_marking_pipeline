@@ -1,0 +1,42 @@
+Name: Masroor Ahmad (y59276ma)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 1 December 2023 19:50:46 o'clock GMT
+Current Mark: 74.76
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10879475_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475_Task1.ipynb
+
+	Original filename: 10879475-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task1-method-b.csv
+
+	Original filename: 10879475-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task1-method-a.csv
+
+	Original filename: 10879475-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task2-method-b-validation.csv
+
+	Original filename: 10879475_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475_Task2.ipynb
+
+	Original filename: 10879475-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task2-method-b.csv
+
+	Original filename: 10879475-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task2-method-a-validation.csv
+
+	Original filename: 10879475-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task1-method-a-validation.csv
+
+	Original filename: 10879475-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task2-method-a.csv
+
+	Original filename: 10879475-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_y59276ma_attempt_2023-12-01-19-50-46_10879475-Task1-method-b-validation.csv
+

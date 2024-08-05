@@ -1,0 +1,44 @@
+Name: Awais Ahmed (d73761aa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 17:22:21 o'clock GMT
+Current Mark: 74.81
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+RoBERTa Model used for task 1c: https://huggingface.co/sentence-transformers/all-roberta-large-v1
+
+Task 2 times were calculated using GPU runtime in Colab
+
+Files:
+	Original filename: 10560407-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task2.ipynb
+
+	Original filename: 10560407-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task1-method-b.csv
+
+	Original filename: 10560407-Task1-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task1-method-c-validation.csv
+
+	Original filename: 10560407-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task2-method-b-validation.csv
+
+	Original filename: 10560407-Task1-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task1-method-c.csv
+
+	Original filename: 10560407-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task1.ipynb
+
+	Original filename: 10560407-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task2-method-b.csv
+
+	Original filename: 10560407-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task2-method-a-validation.csv
+
+	Original filename: 10560407-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task2-method-a.csv
+
+	Original filename: 10560407-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_d73761aa_attempt_2023-11-24-17-22-21_10560407-Task1-method-b-validation.csv
+

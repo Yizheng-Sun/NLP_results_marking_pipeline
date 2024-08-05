@@ -1,0 +1,91 @@
+Maxmimum possible Score: 102
+Your Score: 71
+
+Feedback:
+Words or phrases involving:  war criminal
+* Correct relative order of similarity scores should be: 
+    {3002,  war criminal, jet, 5.0} > {3001,  war criminal, student, 0.2}
+* Your relative order of similarity scores is: 
+    {3001, 0.2709178736464676} > {3002, 0.2056547487729725}
+--------------------------------------------------
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.4644517200328173} > {911, 0.3974569625473226}
+--------------------------------------------------
+Words or phrases involving: alcohol
+* Correct relative order of similarity scores should be: 
+    {697, alcohol, wine, 7.42} > {242, alcohol, cocktail, 6.73}
+* Your relative order of similarity scores is: 
+    {242, 0.4952931627966734} > {697, 0.4303528914838843}
+--------------------------------------------------
+Words or phrases involving: area
+* Correct relative order of similarity scores should be: 
+    {14, area, region, 9.47} > {16, area, corner, 2.07} > {4013, area, long distance, 0.1}
+* Your relative order of similarity scores is: 
+    {16, 0.5034665384798339} > {14, 0.4990498272336898} > {4013, 0.3923222058061264}
+--------------------------------------------------
+Words or phrases involving: bad
+* Correct relative order of similarity scores should be: 
+    {14, bad, terrible, 7.78} > {178, bad, immoral, 7.62} > {51, bad, great, 0.35} > {179, bad, great, 0.35}
+* Your relative order of similarity scores is: 
+    {14, 0.4990498272336898} > {51, 0.43224672705189} > {179, 0.43224672705189} > {178, 0.4275045310367066}
+--------------------------------------------------
+Words or phrases involving: beer
+* Correct relative order of similarity scores should be: 
+    {169, beer, alcohol, 7.5} > {279, beer, beverage, 5.42}
+* Your relative order of similarity scores is: 
+    {279, 0.6629107707954079} > {169, 0.6319438238221456}
+--------------------------------------------------
+Words or phrases involving: bird
+* Correct relative order of similarity scores should be: 
+    {45, bird, hen, 7.03} > {4011, bird, man, 0.2}
+* Your relative order of similarity scores is: 
+    {4011, 0.5724060342551904} > {45, 0.377954298188609}
+--------------------------------------------------
+Words or phrases involving: god
+* Correct relative order of similarity scores should be: 
+    {264, god, spirit, 7.3} > {248, god, devil, 1.8}
+* Your relative order of similarity scores is: 
+    {248, 0.4215932453941456} > {264, 0.3450875024821121}
+--------------------------------------------------
+Words or phrases involving: hard
+* Correct relative order of similarity scores should be: 
+    {3, hard, difficult, 8.77} > {5, hard, easy, 0.95}
+* Your relative order of similarity scores is: 
+    {5, 0.5397616337106201} > {3, 0.4666840205546853}
+--------------------------------------------------
+Words or phrases involving: journey
+* Correct relative order of similarity scores should be: 
+    {593, journey, trip, 8.88} > {440, journey, conquest, 4.72} > {4012, journey, long distance, 4.0}
+* Your relative order of similarity scores is: 
+    {440, 0.5023450157031806} > {593, 0.4237605102123032} > {4012, 0.3877882820714964}
+--------------------------------------------------
+Words or phrases involving: keep
+* Correct relative order of similarity scores should be: 
+    {819, keep, possess, 8.27} > {932, keep, borrow, 2.25}
+* Your relative order of similarity scores is: 
+    {932, 0.4003960664043682} > {819, 0.3476554502475221}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.5816767856827156} > {159, 0.328038359123703}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.5450259170801152} > {501, 0.5005392672546402}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.6319438238221456} > {168, 0.5198321171977649}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

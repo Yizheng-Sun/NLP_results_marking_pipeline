@@ -1,0 +1,44 @@
+Name: Khawla Almarzooqi (e37076ka)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 14:27:24 o'clock GMT
+Current Mark: 75.89
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+For Questionnaire for Task 2 - method (b), Question 5:
+
+I used an embedding layer that learns embeddings during the mode training process(not available as option to tick in the quiz)
+
+Files:
+	Original filename: 10928627-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task2-method-b-validation.csv
+
+	Original filename: 10928627-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task2-method-b.csv
+
+	Original filename: 10928627-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task1-method-a-validation.csv
+
+	Original filename: 10928627-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task2.ipynb
+
+	Original filename: 10928627-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task2-method-a-validation.csv
+
+	Original filename: 10928627-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task1-method-b-validation.csv
+
+	Original filename: 10928627-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task1-method-b.csv
+
+	Original filename: 10928627-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task1-method-a.csv
+
+	Original filename: 10928627-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task2-method-a.csv
+
+	Original filename: 10928627-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_e37076ka_attempt_2023-11-24-14-27-24_10928627-Task1.ipynb
+

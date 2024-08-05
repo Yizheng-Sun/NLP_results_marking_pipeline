@@ -1,0 +1,72 @@
+Name: Frenciel Anggi (j49970fa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 17:15:44 o'clock GMT
+Current Mark: 77.81
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+For all the following task, I have done hyperparameter tuning to select the best hyperparameters for each model which you can see in more detail in my Google Colab notebooks.
+
+Task 1
+
+Method b)
+
+I have tried lemmatizing as part of my pre-processing, however I omitted out this step because the results become worse with lemmatization.
+
+Method c)
+
+I use this RoBERTa model: princeton-nlp/sup-simcse-roberta-large which you can find in Hugging Face or https://github.com/princeton-nlp/SimCSE.
+
+I did not do any pre-processing for the text words like “running” would be tokenized into “run” and “#” by RoBERTa’s tokenizer. So it would be better not to stem or lemmatize the words to keep as much information. Similar reason for case folding and stopwords, I believe keeping as much information as possible would be the best and RoBERTa’s tokenizer would handle this information. 
+
+Multi-words terms are handled by the hidden layers in the RoBERTa’s model, thus I did not need to do any specific steps.
+
+Task2
+
+Method a)
+
+I use sklearn’s TfidfVectorizer which is equivalent to CountVectorizer followed by TfidfTransformer. CountVectorizer does the case folding before it tokenizes its inputs. There is also the option to remove stopwords in this, which causes my model to perform worse. Hence, I omitted out this step of removing stopwords.
+
+Method c)
+
+I trained and classified the development and test dataset on the V100 GPU. 
+Based on RoBERTa paper, the number of layers in Roberta Large is 24-layer, 1024-hidden.
+I used “roberta-large” on RobertaForSequenceClassification with problem type multi label classification. 
+The normal roberta-large would have Tanh activation function, however, my model for multi label classification with SequenceClassification have a different classifier of RobertaClassificationHead with layers:
+    (dense): Linear(in_features=1024, out_features=1024, bias=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+    (out_proj): Linear(in_features=1024, out_features=9, bias=True)
+
+Files:
+	Original filename: 10967103-Task2-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task2-method-c.csv
+
+	Original filename: 10967103_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103_Task2.ipynb
+
+	Original filename: 10967103-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task2-method-a.csv
+
+	Original filename: 10967103-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task1-method-b.csv
+
+	Original filename: 10967103-Task1-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task1-method-c.csv
+
+	Original filename: 10967103-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task1-method-b-validation.csv
+
+	Original filename: 10967103_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103_Task1.ipynb
+
+	Original filename: 10967103-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task2-method-a-validation.csv
+
+	Original filename: 10967103-Task2-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task2-method-c-validation.csv
+
+	Original filename: 10967103-Task1-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_j49970fa_attempt_2023-11-24-17-15-44_10967103-Task1-method-c-validation.csv
+

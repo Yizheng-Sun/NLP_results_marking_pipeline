@@ -1,0 +1,42 @@
+Name: Mohammad Altaisan (s68250ma)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 16:53:59 o'clock GMT
+Current Mark: 78.26
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+I had fine-tuning hyperparameters section in the notebook don't run it it was for testing purposes
+
+Files:
+	Original filename: 10726993-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task1.ipynb
+
+	Original filename: 10726993-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task2-method-b-validation.csv
+
+	Original filename: 10726993-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task1-method-b-validation.csv
+
+	Original filename: 10726993-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task2-method-a.csv
+
+	Original filename: 10726993-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task1-method-a.csv
+
+	Original filename: 10726993-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task1-method-a-validation.csv
+
+	Original filename: 10726993-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task2.ipynb
+
+	Original filename: 10726993-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task2-method-a-validation.csv
+
+	Original filename: 10726993-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task2-method-b.csv
+
+	Original filename: 10726993-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_s68250ma_attempt_2023-11-24-16-53-59_10726993-Task1-method-b.csv
+

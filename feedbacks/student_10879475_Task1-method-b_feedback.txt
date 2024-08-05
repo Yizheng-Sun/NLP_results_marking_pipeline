@@ -1,0 +1,97 @@
+Maxmimum possible Score: 102
+Your Score: 31
+
+Feedback:
+Words or phrases involving: brutal murder
+* Correct relative order of similarity scores should be: 
+    {3004, brutal murder, terrible, 5.0} > {3003, brutal murder, instructor, 0.2}
+* Your relative order of similarity scores is: 
+    {3003, 0.6183384} > {3004, 0.6020085}
+--------------------------------------------------
+Words or phrases involving: hard
+* Correct relative order of similarity scores should be: 
+    {3, hard, difficult, 8.77} > {5, hard, easy, 0.95}
+* Your relative order of similarity scores is: 
+    {5, 0.8896803} > {3, 0.8577647}
+--------------------------------------------------
+Words or phrases involving: media
+* Correct relative order of similarity scores should be: 
+    {132, media, radio, 7.42} > {133, media, trading, 3.88}
+* Your relative order of similarity scores is: 
+    {133, 0.88932854} > {132, 0.749895}
+--------------------------------------------------
+Words or phrases involving: river
+* Correct relative order of similarity scores should be: 
+    {155, river, stream, 7.3} > {373, river, valley, 1.67}
+* Your relative order of similarity scores is: 
+    {373, 0.9024227} > {155, 0.89274424}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.5639248} > {159, 0.52175784}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.9198834} > {501, 0.919006}
+--------------------------------------------------
+Words or phrases involving: weird
+* Correct relative order of similarity scores should be: 
+    {10, weird, strange, 8.93} > {34, weird, normal, 0.72}
+* Your relative order of similarity scores is: 
+    {34, 0.89124626} > {10, 0.86358213}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.61278653} > {168, 0.59275097}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 3001 is not found in your submission
+    Row ID: 957 is not found in your submission
+    Row ID: 809 is not found in your submission
+    Row ID: 911 is not found in your submission
+    Row ID: 697 is not found in your submission
+    Row ID: 2066 is not found in your submission
+    Row ID: 2164 is not found in your submission
+    Row ID: 51 is not found in your submission
+    Row ID: 176 is not found in your submission
+    Row ID: 402 is not found in your submission
+    Row ID: 279 is not found in your submission
+    Row ID: 883 is not found in your submission
+    Row ID: 966 is not found in your submission
+    Row ID: 633 is not found in your submission
+    Row ID: 2026 is not found in your submission
+    Row ID: 2030 is not found in your submission
+    Row ID: 2154 is not found in your submission
+    Row ID: 726 is not found in your submission
+    Row ID: 2008 is not found in your submission
+    Row ID: 189 is not found in your submission
+    Row ID: 496 is not found in your submission
+    Row ID: 24 is not found in your submission
+    Row ID: 50 is not found in your submission
+    Row ID: 2018 is not found in your submission
+    Row ID: 2019 is not found in your submission
+    Row ID: 121 is not found in your submission
+    Row ID: 709 is not found in your submission
+    Row ID: 813 is not found in your submission
+    Row ID: 977 is not found in your submission
+    Row ID: 248 is not found in your submission
+    Row ID: 264 is not found in your submission
+    Row ID: 791 is not found in your submission
+    Row ID: 989 is not found in your submission
+    Row ID: 593 is not found in your submission
+    Row ID: 819 is not found in your submission
+    Row ID: 932 is not found in your submission
+    Row ID: 19 is not found in your submission
+    Row ID: 842 is not found in your submission
+    Row ID: 2039 is not found in your submission
+    Row ID: 2149 is not found in your submission
+    Row ID: 117 is not found in your submission
+    Row ID: 125 is not found in your submission
+    Row ID: 2010 is not found in your submission

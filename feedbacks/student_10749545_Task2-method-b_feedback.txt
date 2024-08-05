@@ -1,0 +1,12 @@
+Your F1 Score: 0.15873643398385276
+Your F1 Score For each class:
+   Class 0: 0.0
+   Class 1: 0.0
+   Class 2: 0.0
+   Class 3: 0.0
+   Class 4: 0.6470254957507082
+   Class 5: 0.0
+   Class 6: 0.0
+   Class 7: 0.0
+   Class 8: 0.02553191489361702
+************************************

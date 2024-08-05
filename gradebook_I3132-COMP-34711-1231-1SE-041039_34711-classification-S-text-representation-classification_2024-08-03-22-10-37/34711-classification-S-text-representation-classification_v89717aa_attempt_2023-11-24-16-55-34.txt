@@ -1,0 +1,42 @@
+Name: Abdelrahman Abdeldaim (v89717aa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 16:55:34 o'clock GMT
+Current Mark: 78.96
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10699403-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task2-method-b.csv
+
+	Original filename: 10699403-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task2-method-a-validation.csv
+
+	Original filename: 10699403-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task1-method-b.csv
+
+	Original filename: 10699403-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task1-method-b-validation.csv
+
+	Original filename: 10699403-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task1-method-a.csv
+
+	Original filename: 10699403-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task2-method-b-validation.csv
+
+	Original filename: 10699403-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task1.ipynb
+
+	Original filename: 10699403-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task2-method-a.csv
+
+	Original filename: 10699403-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task1-method-a-validation.csv
+
+	Original filename: 10699403-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_v89717aa_attempt_2023-11-24-16-55-34_10699403-Task2.ipynb
+

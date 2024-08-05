@@ -1,0 +1,85 @@
+Maxmimum possible Score: 102
+Your Score: 73
+
+Feedback:
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.5175608} > {911, 0.44632262}
+--------------------------------------------------
+Words or phrases involving: area
+* Correct relative order of similarity scores should be: 
+    {14, area, region, 9.47} > {16, area, corner, 2.07} > {4013, area, long distance, 0.1}
+* Your relative order of similarity scores is: 
+    {16, 0.7452093} > {14, 0.6960399} > {4013, 0.4720842}
+--------------------------------------------------
+Words or phrases involving: bad
+* Correct relative order of similarity scores should be: 
+    {14, bad, terrible, 7.78} > {178, bad, immoral, 7.62} > {51, bad, great, 0.35} > {179, bad, great, 0.35}
+* Your relative order of similarity scores is: 
+    {14, 0.6960399} > {51, 0.5425719} > {179, 0.5425719} > {178, 0.5230962}
+--------------------------------------------------
+Words or phrases involving: beer
+* Correct relative order of similarity scores should be: 
+    {169, beer, alcohol, 7.5} > {279, beer, beverage, 5.42}
+* Your relative order of similarity scores is: 
+    {279, 0.7715136} > {169, 0.6740462}
+--------------------------------------------------
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.44983062} > {4010, 0.4319009}
+--------------------------------------------------
+Words or phrases involving: football
+* Correct relative order of similarity scores should be: 
+    {2018, football, soccer, 9.03} > {2019, football, basketball, 6.81}
+* Your relative order of similarity scores is: 
+    {2019, 0.8224998} > {2018, 0.80444133}
+--------------------------------------------------
+Words or phrases involving: god
+* Correct relative order of similarity scores should be: 
+    {264, god, spirit, 7.3} > {248, god, devil, 1.8}
+* Your relative order of similarity scores is: 
+    {248, 0.6269118} > {264, 0.57326007}
+--------------------------------------------------
+Words or phrases involving: hard
+* Correct relative order of similarity scores should be: 
+    {3, hard, difficult, 8.77} > {5, hard, easy, 0.95}
+* Your relative order of similarity scores is: 
+    {5, 0.6754421} > {3, 0.6625748}
+--------------------------------------------------
+Words or phrases involving: keep
+* Correct relative order of similarity scores should be: 
+    {819, keep, possess, 8.27} > {932, keep, borrow, 2.25}
+* Your relative order of similarity scores is: 
+    {932, 0.4749003} > {819, 0.3676139}
+--------------------------------------------------
+Words or phrases involving: sly
+* Correct relative order of similarity scores should be: 
+    {62, sly, clever, 7.25} > {105, sly, tough, 0.58}
+* Your relative order of similarity scores is: 
+    {105, 0.522581} > {62, 0.52257794}
+--------------------------------------------------
+Words or phrases involving: smart
+* Correct relative order of similarity scores should be: 
+    {2, smart, intelligent, 9.2} > {16, smart, dumb, 0.55}
+* Your relative order of similarity scores is: 
+    {16, 0.7452093} > {2, 0.64122456}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.54112995} > {159, 0.37150708}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.6740462} > {168, 0.5054485}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

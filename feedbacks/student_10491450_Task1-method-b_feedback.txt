@@ -1,0 +1,97 @@
+Maxmimum possible Score: 102
+Your Score: 31
+
+Feedback:
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.5} > {4010, 0.5}
+--------------------------------------------------
+Words or phrases involving: bird
+* Correct relative order of similarity scores should be: 
+    {45, bird, hen, 7.03} > {4011, bird, man, 0.2}
+* Your relative order of similarity scores is: 
+    {4011, 0.6862293481826782} > {45, 0.4676715433597564}
+--------------------------------------------------
+Words or phrases involving: happy
+* Correct relative order of similarity scores should be: 
+    {7, happy, glad, 9.17} > {27, happy, angry, 1.28}
+* Your relative order of similarity scores is: 
+    {27, 0.5656774044036865} > {7, 0.5380046963691711}
+--------------------------------------------------
+Words or phrases involving: river
+* Correct relative order of similarity scores should be: 
+    {155, river, stream, 7.3} > {373, river, valley, 1.67}
+* Your relative order of similarity scores is: 
+    {373, 0.8272519707679749} > {155, 0.7986962795257568}
+--------------------------------------------------
+Words or phrases involving: stomach
+* Correct relative order of similarity scores should be: 
+    {274, stomach, waist, 5.9} > {774, stomach, bedroom, 0.4}
+* Your relative order of similarity scores is: 
+    {774, 0.7669137716293335} > {274, 0.6746451258659363}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.4730222523212433} > {159, 0.3915360569953918}
+--------------------------------------------------
+Words or phrases involving: teacher
+* Correct relative order of similarity scores should be: 
+    {129, teacher, instructor, 9.25} > {623, teacher, rabbi, 4.37}
+* Your relative order of similarity scores is: 
+    {623, 0.5442044138908386} > {129, 0.2696496248245239}
+--------------------------------------------------
+Words or phrases involving: wood
+* Correct relative order of similarity scores should be: 
+    {2012, wood, forest, 7.73} > {342, wood, paper, 2.88}
+* Your relative order of similarity scores is: 
+    {342, 0.7939575910568237} > {2012, 0.6476110816001892}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 3001 is not found in your submission
+    Row ID: 957 is not found in your submission
+    Row ID: 809 is not found in your submission
+    Row ID: 911 is not found in your submission
+    Row ID: 697 is not found in your submission
+    Row ID: 2066 is not found in your submission
+    Row ID: 2164 is not found in your submission
+    Row ID: 51 is not found in your submission
+    Row ID: 176 is not found in your submission
+    Row ID: 402 is not found in your submission
+    Row ID: 279 is not found in your submission
+    Row ID: 883 is not found in your submission
+    Row ID: 966 is not found in your submission
+    Row ID: 633 is not found in your submission
+    Row ID: 2026 is not found in your submission
+    Row ID: 2030 is not found in your submission
+    Row ID: 2154 is not found in your submission
+    Row ID: 726 is not found in your submission
+    Row ID: 2008 is not found in your submission
+    Row ID: 189 is not found in your submission
+    Row ID: 496 is not found in your submission
+    Row ID: 24 is not found in your submission
+    Row ID: 50 is not found in your submission
+    Row ID: 2018 is not found in your submission
+    Row ID: 2019 is not found in your submission
+    Row ID: 121 is not found in your submission
+    Row ID: 709 is not found in your submission
+    Row ID: 813 is not found in your submission
+    Row ID: 977 is not found in your submission
+    Row ID: 248 is not found in your submission
+    Row ID: 264 is not found in your submission
+    Row ID: 791 is not found in your submission
+    Row ID: 989 is not found in your submission
+    Row ID: 593 is not found in your submission
+    Row ID: 819 is not found in your submission
+    Row ID: 932 is not found in your submission
+    Row ID: 19 is not found in your submission
+    Row ID: 842 is not found in your submission
+    Row ID: 2039 is not found in your submission
+    Row ID: 2149 is not found in your submission
+    Row ID: 117 is not found in your submission
+    Row ID: 125 is not found in your submission
+    Row ID: 2010 is not found in your submission

@@ -1,0 +1,151 @@
+Maxmimum possible Score: 102
+Your Score: 50
+
+Feedback:
+Words or phrases involving:  war criminal
+* Correct relative order of similarity scores should be: 
+    {3002,  war criminal, jet, 5.0} > {3001,  war criminal, student, 0.2}
+* Your relative order of similarity scores is: 
+    {3001, 0.0} > {3002, 0.0}
+--------------------------------------------------
+Words or phrases involving: accept
+* Correct relative order of similarity scores should be: 
+    {816, accept, acknowledge, 6.88} > {957, accept, recommend, 2.75}
+* Your relative order of similarity scores is: 
+    {957, 0.088903585375112} > {816, 0.0011321578617923}
+--------------------------------------------------
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.0049855518037866} > {911, 0.0}
+--------------------------------------------------
+Words or phrases involving: alcohol
+* Correct relative order of similarity scores should be: 
+    {697, alcohol, wine, 7.42} > {242, alcohol, cocktail, 6.73}
+* Your relative order of similarity scores is: 
+    {242, 0.0254770720521107} > {697, 0.0244544005775153}
+--------------------------------------------------
+Words or phrases involving: bad
+* Correct relative order of similarity scores should be: 
+    {14, bad, terrible, 7.78} > {178, bad, immoral, 7.62} > {51, bad, great, 0.35} > {179, bad, great, 0.35}
+* Your relative order of similarity scores is: 
+    {51, 0.0628003749762611} > {179, 0.0628003749762611} > {178, 0.021548965923572} > {14, 0.0129664444367539}
+--------------------------------------------------
+Words or phrases involving: beach
+* Correct relative order of similarity scores should be: 
+    {176, beach, seashore, 8.33} > {402, beach, sea, 4.68}
+* Your relative order of similarity scores is: 
+    {402, 0.1336175411627582} > {176, 0.0197997640198024}
+--------------------------------------------------
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.0} > {4010, 0.0}
+--------------------------------------------------
+Words or phrases involving: bird
+* Correct relative order of similarity scores should be: 
+    {45, bird, hen, 7.03} > {4011, bird, man, 0.2}
+* Your relative order of similarity scores is: 
+    {4011, 0.0542683001459133} > {45, 0.0017195814436018}
+--------------------------------------------------
+Words or phrases involving: brutal murder
+* Correct relative order of similarity scores should be: 
+    {3004, brutal murder, terrible, 5.0} > {3003, brutal murder, instructor, 0.2}
+* Your relative order of similarity scores is: 
+    {3003, 0.0} > {3004, 0.0}
+--------------------------------------------------
+Words or phrases involving: car
+* Correct relative order of similarity scores should be: 
+    {2026, car, automobile, 8.94} > {633, car, elevator, 1.03}
+* Your relative order of similarity scores is: 
+    {633, 0.0665880573343142} > {2026, 0.0113223333587322}
+--------------------------------------------------
+Words or phrases involving: dollar
+* Correct relative order of similarity scores should be: 
+    {2081, dollar, buck, 9.22} > {772, dollar, people, 0.4}
+* Your relative order of similarity scores is: 
+    {772, 0.0415378251624308} > {2081, 0.0381251536709202}
+--------------------------------------------------
+Words or phrases involving: door
+* Correct relative order of similarity scores should be: 
+    {189, door, doorway, 5.4} > {496, door, floor, 1.67}
+* Your relative order of similarity scores is: 
+    {496, 0.2901067971384362} > {189, 0.1677632963010253}
+--------------------------------------------------
+Words or phrases involving: dumb
+* Correct relative order of similarity scores should be: 
+    {24, dumb, foolish, 6.67} > {50, dumb, intelligent, 0.75}
+* Your relative order of similarity scores is: 
+    {50, 0.0359009705518171} > {24, 0.0045270151906856}
+--------------------------------------------------
+Words or phrases involving: friend
+* Correct relative order of similarity scores should be: 
+    {121, friend, buddy, 8.78} > {709, friend, mother, 2.53}
+* Your relative order of similarity scores is: 
+    {709, 0.2464336126771019} > {121, 0.0295327579221717}
+--------------------------------------------------
+Words or phrases involving: give
+* Correct relative order of similarity scores should be: 
+    {813, give, lend, 7.22} > {977, give, steal, 0.5}
+* Your relative order of similarity scores is: 
+    {977, 0.2439184495891499} > {813, 0.0550481221597194}
+--------------------------------------------------
+Words or phrases involving: happy
+* Correct relative order of similarity scores should be: 
+    {7, happy, glad, 9.17} > {27, happy, angry, 1.28}
+* Your relative order of similarity scores is: 
+    {27, 0.0228163864857324} > {7, 0.0094910148877883}
+--------------------------------------------------
+Words or phrases involving: hard
+* Correct relative order of similarity scores should be: 
+    {3, hard, difficult, 8.77} > {5, hard, easy, 0.95}
+* Your relative order of similarity scores is: 
+    {5, 0.0876324426235962} > {3, 0.0402176452842373}
+--------------------------------------------------
+Words or phrases involving: house
+* Correct relative order of similarity scores should be: 
+    {203, house, apartment, 5.8} > {261, house, key, 1.9}
+* Your relative order of similarity scores is: 
+    {261, 0.0873663161887735} > {203, 0.0647016927912147}
+--------------------------------------------------
+Words or phrases involving: large
+* Correct relative order of similarity scores should be: 
+    {19, large, huge, 9.47} > {110, large, flexible, 0.48}
+* Your relative order of similarity scores is: 
+    {110, 0.1920145899057388} > {19, 0.021874254755061}
+--------------------------------------------------
+Words or phrases involving: plane
+* Correct relative order of similarity scores should be: 
+    {125, plane, jet, 8.1} > {117, plane, airport, 3.65}
+* Your relative order of similarity scores is: 
+    {117, 0.2376629297927892} > {125, 0.1210783525444316}
+--------------------------------------------------
+Words or phrases involving: stomach
+* Correct relative order of similarity scores should be: 
+    {274, stomach, waist, 5.9} > {774, stomach, bedroom, 0.4}
+* Your relative order of similarity scores is: 
+    {774, 0.0668259541666237} > {274, 0.0197091803493612}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.2739134491659419} > {159, 0.1524123448805456}
+--------------------------------------------------
+Words or phrases involving: task
+* Correct relative order of similarity scores should be: 
+    {542, task, job, 8.87} > {728, task, woman, 0.68}
+* Your relative order of similarity scores is: 
+    {728, 0.0795370381509512} > {542, 0.0426034108986391}
+--------------------------------------------------
+Words or phrases involving: wealth
+* Correct relative order of similarity scores should be: 
+    {501, wealth, fame, 4.02} > {354, wealth, poverty, 1.27}
+* Your relative order of similarity scores is: 
+    {354, 0.0276191839872575} > {501, 0.0210021926821875}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

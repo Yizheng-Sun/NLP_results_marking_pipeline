@@ -1,0 +1,48 @@
+Name: Aditya Agarwal (u07944aa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 16:34:49 o'clock GMT
+Current Mark: 76.81
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Please ignore the first questionnaire submission for Task2-method-b.
+
+I further fine-tuned the model and submitted another form. 
+
+Used a mix of Google Collab Free and Google Collab Pro.
+
+Task 2 Method b runs fine on Google Collab Pro with MAX_SEQUENCE_LENGTH= 10000 OR shape[0] of the input data.
+
+Files:
+	Original filename: 10556516-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task1-method-a.csv
+
+	Original filename: 10556516-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task2-method-b-validation.csv
+
+	Original filename: 10556516-Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task2.ipynb
+
+	Original filename: 10556516-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task2-method-a.csv
+
+	Original filename: 10556516-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task2-method-a-validation.csv
+
+	Original filename: 10556516-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task1-method-b-validation.csv
+
+	Original filename: 10556516-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task1-method-a-validation.csv
+
+	Original filename: 10556516-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task2-method-b.csv
+
+	Original filename: 10556516-Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task1.ipynb
+
+	Original filename: 10556516-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_u07944aa_attempt_2023-11-24-16-34-49_10556516-Task1-method-b.csv
+

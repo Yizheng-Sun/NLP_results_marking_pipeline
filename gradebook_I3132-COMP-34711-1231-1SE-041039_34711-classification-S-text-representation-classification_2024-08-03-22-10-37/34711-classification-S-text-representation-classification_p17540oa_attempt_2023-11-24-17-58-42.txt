@@ -1,0 +1,42 @@
+Name: Oluwatobiloba Aiyesimoju (p17540oa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 17:58:42 o'clock GMT
+Current Mark: 68.88
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+For the times sections in the questions, every time you run the time changes, so I just put the time that it was when running that particular part of the code
+
+Files:
+	Original filename: 10864332_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332_Task2.ipynb
+
+	Original filename: 10864332-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task2-method-b.csv
+
+	Original filename: 10864332-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task2-method-b-validation.csv
+
+	Original filename: 10864332-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task1-method-a-validation.csv
+
+	Original filename: 10864332-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task1-method-b.csv
+
+	Original filename: 10864332-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task2-method-a-validation.csv
+
+	Original filename: 10864332-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task1-method-a.csv
+
+	Original filename: 10864332-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task1-method-b-validation.csv
+
+	Original filename: 10864332_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332_Task1.ipynb
+
+	Original filename: 10864332-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_p17540oa_attempt_2023-11-24-17-58-42_10864332-Task2-method-a.csv
+

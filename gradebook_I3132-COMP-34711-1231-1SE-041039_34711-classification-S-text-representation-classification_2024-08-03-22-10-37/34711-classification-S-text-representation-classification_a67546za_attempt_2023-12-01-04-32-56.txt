@@ -1,0 +1,42 @@
+Name: Zoya Anwar (a67546za)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 1 December 2023 04:32:56 o'clock GMT
+Current Mark: 72.62
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10606001-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task1-method-b-validation.csv
+
+	Original filename: 10606001-Task1-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task1-method-c.csv
+
+	Original filename: 10606001-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task1-method-b.csv
+
+	Original filename: 10606001_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001_Task1.ipynb
+
+	Original filename: 10606001-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task2-method-a.csv
+
+	Original filename: 10606001-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task2-method-b.csv
+
+	Original filename: 10606001-Task1-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task1-method-c-validation.csv
+
+	Original filename: 10606001_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001_Task2.ipynb
+
+	Original filename: 10606001-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task2-method-a-validation.csv
+
+	Original filename: 10606001-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_a67546za_attempt_2023-12-01-04-32-56_10606001-Task2-method-b-validation.csv
+

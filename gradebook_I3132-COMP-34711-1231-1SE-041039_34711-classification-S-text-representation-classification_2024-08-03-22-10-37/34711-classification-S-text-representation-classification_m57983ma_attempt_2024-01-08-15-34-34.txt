@@ -1,0 +1,27 @@
+Name: Mohammed Alyousuf (m57983ma)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Monday, 8 January 2024 15:34:34 o'clock GMT
+Current Mark: 31.89
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 10542749-Task1-Word2Vec-x-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_m57983ma_attempt_2024-01-08-15-34-34_10542749-Task1-Word2Vec-x-validation.csv
+
+	Original filename: 10542749-Task1-tfidf-x-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_m57983ma_attempt_2024-01-08-15-34-34_10542749-Task1-tfidf-x-validation.csv
+
+	Original filename: 10542749_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_m57983ma_attempt_2024-01-08-15-34-34_10542749_Task1.ipynb
+
+	Original filename: 10542749-Task1-tfidf-x.csv
+	Filename: 34711-classification-S-text-representation-classification_m57983ma_attempt_2024-01-08-15-34-34_10542749-Task1-tfidf-x.csv
+
+	Original filename: 10542749-Task1-Word2Vec-x.csv
+	Filename: 34711-classification-S-text-representation-classification_m57983ma_attempt_2024-01-08-15-34-34_10542749-Task1-Word2Vec-x.csv
+

@@ -1,0 +1,48 @@
+Name: Awab Alshami (q26752aa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 16:29:07 o'clock GMT
+Current Mark: 66.66
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Task 2C (RoBERTa) fine-tuning was executed on Colab with a GPU T4 15GB VRAM runtime environment, so there will be memory crashes if run on a weaker CPU/GPU with the parameter settings I have chosen.
+
+Every other task was executed on a standard CPU.
+
+nltk.tokenize.word_tokenize() is TreebankWordTokenizer
+Source 24/11/2023: "Return a tokenized copy of text, using NLTK’s recommended word tokenizer (currently an improved TreebankWordTokenizer)"
+https://www.nltk.org/api/nltk.tokenize.word_tokenize.html
+
+Files:
+	Original filename: 10895316-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task2-method-a-validation.csv
+
+	Original filename: 10895316_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316_Task1.ipynb
+
+	Original filename: 10895316-Task1-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task1-method-c.csv
+
+	Original filename: 10895316-Task2-method-c.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task2-method-c.csv
+
+	Original filename: 10895316-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task2-method-a.csv
+
+	Original filename: 10895316_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316_Task2.ipynb
+
+	Original filename: 10895316-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task1-method-b.csv
+
+	Original filename: 10895316-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task1-method-b-validation.csv
+
+	Original filename: 10895316-Task1-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task1-method-c-validation.csv
+
+	Original filename: 10895316-Task2-method-c-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_q26752aa_attempt_2023-11-24-16-29-07_10895316-Task2-method-c-validation.csv
+

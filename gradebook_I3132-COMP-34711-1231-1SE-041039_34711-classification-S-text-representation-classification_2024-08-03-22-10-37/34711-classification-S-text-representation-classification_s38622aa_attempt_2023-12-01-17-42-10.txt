@@ -1,0 +1,15 @@
+Name: Apoorv . (s38622aa)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 1 December 2023 17:42:10 o'clock GMT
+Current Mark: 0
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Task2 method b-> For word to numerical conversion keras.text_to_sequence was used, and then an Embedding Layer in Neural network converts the word into embeddings
+
+Files:
+	Original filename: Submission-20231201T173454Z-001.zip
+	Filename: 34711-classification-S-text-representation-classification_s38622aa_attempt_2023-12-01-17-42-10_Submission-20231201T173454Z-001.zip
+

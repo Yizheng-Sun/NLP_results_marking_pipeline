@@ -1,0 +1,85 @@
+Maxmimum possible Score: 102
+Your Score: 73
+
+Feedback:
+Words or phrases involving: agree
+* Correct relative order of similarity scores should be: 
+    {911, agree, please, 4.13} > {809, agree, argue, 0.77}
+* Your relative order of similarity scores is: 
+    {809, 0.4045065343379974} > {911, 0.3035992383956909}
+--------------------------------------------------
+Words or phrases involving: bad
+* Correct relative order of similarity scores should be: 
+    {14, bad, terrible, 7.78} > {178, bad, immoral, 7.62} > {51, bad, great, 0.35} > {179, bad, great, 0.35}
+* Your relative order of similarity scores is: 
+    {14, 0.5875958800315857} > {51, 0.3669789135456085} > {179, 0.3669789135456085} > {178, 0.1313864886760711}
+--------------------------------------------------
+Words or phrases involving: beach
+* Correct relative order of similarity scores should be: 
+    {176, beach, seashore, 8.33} > {402, beach, sea, 4.68}
+* Your relative order of similarity scores is: 
+    {402, 0.4116111695766449} > {176, 0.3472139239311218}
+--------------------------------------------------
+Words or phrases involving: benchmark
+* Correct relative order of similarity scores should be: 
+    {4010, benchmark, result, 8.0} > {4009, benchmark, desk, 1.0}
+* Your relative order of similarity scores is: 
+    {4009, 0.0} > {4010, 0.0}
+--------------------------------------------------
+Words or phrases involving: dollar
+* Correct relative order of similarity scores should be: 
+    {2081, dollar, buck, 9.22} > {772, dollar, people, 0.4}
+* Your relative order of similarity scores is: 
+    {772, 0.2101859152317047} > {2081, 0.159193217754364}
+--------------------------------------------------
+Words or phrases involving: friend
+* Correct relative order of similarity scores should be: 
+    {121, friend, buddy, 8.78} > {709, friend, mother, 2.53}
+* Your relative order of similarity scores is: 
+    {709, 0.479729026556015} > {121, 0.3779002130031585}
+--------------------------------------------------
+Words or phrases involving: journey
+* Correct relative order of similarity scores should be: 
+    {593, journey, trip, 8.88} > {440, journey, conquest, 4.72} > {4012, journey, long distance, 4.0}
+* Your relative order of similarity scores is: 
+    {593, 0.6472591757774353} > {4012, 0.3958369791507721} > {440, 0.3352263271808624}
+--------------------------------------------------
+Words or phrases involving: keep
+* Correct relative order of similarity scores should be: 
+    {819, keep, possess, 8.27} > {932, keep, borrow, 2.25}
+* Your relative order of similarity scores is: 
+    {932, 0.3627072274684906} > {819, 0.1569852232933044}
+--------------------------------------------------
+Words or phrases involving: river
+* Correct relative order of similarity scores should be: 
+    {155, river, stream, 7.3} > {373, river, valley, 1.67}
+* Your relative order of similarity scores is: 
+    {373, 0.6001116633415222} > {155, 0.5190364122390747}
+--------------------------------------------------
+Words or phrases involving: stomach
+* Correct relative order of similarity scores should be: 
+    {274, stomach, waist, 5.9} > {774, stomach, bedroom, 0.4}
+* Your relative order of similarity scores is: 
+    {774, 0.3274772763252258} > {274, 0.3205050826072693}
+--------------------------------------------------
+Words or phrases involving: take
+* Correct relative order of similarity scores should be: 
+    {159, take, possess, 7.2} > {160, take, leave, 2.47}
+* Your relative order of similarity scores is: 
+    {160, 0.6359133124351501} > {159, 0.2328788787126541}
+--------------------------------------------------
+Words or phrases involving: woman
+* Correct relative order of similarity scores should be: 
+    {168, woman, wife, 5.72} > {169, woman, fur, 0.58}
+* Your relative order of similarity scores is: 
+    {169, 0.5613992810249329} > {168, 0.439777135848999}
+--------------------------------------------------
+Words or phrases involving: wood
+* Correct relative order of similarity scores should be: 
+    {2012, wood, forest, 7.73} > {342, wood, paper, 2.88}
+* Your relative order of similarity scores is: 
+    {342, 0.2926246523857116} > {2012, 0.2496922463178634}
+--------------------------------------------------
+
+Some rows were not found in your submission. Please make sure you have included all the rows in your submission: 
+    Row ID: 2010 is not found in your submission

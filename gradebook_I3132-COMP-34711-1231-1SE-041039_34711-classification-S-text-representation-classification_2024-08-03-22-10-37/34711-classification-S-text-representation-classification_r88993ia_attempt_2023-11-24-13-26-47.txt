@@ -1,0 +1,42 @@
+Name: Ismail Al Brashdi (r88993ia)
+Assignment: 34711-classification-S-text-representation-classification
+Date Submitted: Friday, 24 November 2023 13:26:47 o'clock GMT
+Current Mark: 77.34
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+I used the free T4 GPU provided by Google Colab to run the Task 2 notebook.
+
+Files:
+	Original filename: 10768356-Task2-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task2-method-b.csv
+
+	Original filename: 10768356-Task1-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task1-method-a-validation.csv
+
+	Original filename: 10768356-Task1-method-b.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task1-method-b.csv
+
+	Original filename: 10768356-Task2-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task2-method-b-validation.csv
+
+	Original filename: 10768356-Task2-method-a-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task2-method-a-validation.csv
+
+	Original filename: 10768356-Task2-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task2-method-a.csv
+
+	Original filename: 10768356-Task1-method-b-validation.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task1-method-b-validation.csv
+
+	Original filename: 10768356-Task1-method-a.csv
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356-Task1-method-a.csv
+
+	Original filename: 10768356_Task1.ipynb
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356_Task1.ipynb
+
+	Original filename: 10768356_Task2.ipynb
+	Filename: 34711-classification-S-text-representation-classification_r88993ia_attempt_2023-11-24-13-26-47_10768356_Task2.ipynb
+
